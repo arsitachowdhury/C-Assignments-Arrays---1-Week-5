@@ -1,0 +1,23 @@
+Predict the output
+int main()
+{
+int sub[50], i ;
+for ( i = 0 ; i <= 48 ; i++ ) ;
+{
+sub[i] = i ;
+cout<<sub[i]<<endl ;
+}
+return 0;
+}
+
+Answer----->
+0
+1
+2
+3
+4
+5
+6
+7
+9
+10.....Print upto 48 because the for loop is iterate in 48 times.
